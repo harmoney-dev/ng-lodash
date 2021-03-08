@@ -8,21 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/rockabox/ng-lodash.git"
+    "url": "git://github.com/harmoney-dev/ng-lodash.git"
   },
   "keywords": [
     "nglodash",
     "angular",
     "lodash"
   ],
-  "author": [
-    "Rockabox <tech@rockabox.com> (http://rockabox.com)"
-  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rockabox/ng-lodash/issues"
+    "url": "https://github.com/harmoney-dev/ng-lodash/issues"
   },
-  "homepage": "https://github.com/rockabox/ng-lodash",
+  "homepage": "https://github.com/harmoney-dev/ng-lodash",
   "devDependencies": {
     "grunt": "~0.4.5",
     "grunt-bower-task": "~0.4.0",

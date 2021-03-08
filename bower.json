@@ -2,7 +2,6 @@
   "name": "ng-lodash",
   "version": "0.3.0",
   "description": "An Angular module wrapper for lodash",
-  "author": ["Rockabox <tech@rockabox.com> (http://www.rockabox.com)"],
   "license": "MIT",
   "keywords": [
     "nglodash",
@@ -17,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/rockabox/ng-lodash.git"
+    "url": "git://github.com/harmoney-dev/ng-lodash.git"
   },
   "main": [
     "build/ng-lodash.js"
